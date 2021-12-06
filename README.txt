@@ -7,7 +7,7 @@ July 3, 2019
 C (CPU/GPU) program for soft threshold CWT ambient noise designal and empirical Green's function denoise
 
 Yang Yang
-Yang.Yang@memphis.edu
+yyang93924@gmail.com
 
 The fftw3 library is needed, which can be downloaded from: http://www.fftw.org.
 For the GPU version, NVidia CUDA is needed.
